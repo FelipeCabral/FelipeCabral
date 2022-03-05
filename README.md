@@ -1,8 +1,8 @@
-### Oi! Eu sou o Felipe Cabral 👋
+### Oi! Eu sou o Felipe Cabral! 👍🏼
 
 ##
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/felipecabral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -24,12 +24,15 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
   
-   ##
+##
+  
   <div> 
   <a href="https://instagram.com/felipecv_7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipecv7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-cabral-viana-58b11981" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+##
   
   
   
