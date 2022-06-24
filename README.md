@@ -1,4 +1,4 @@
-### Oi! Eu sou o <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-cabral-viana-58b11981" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-cabral-viana-58b11981?trk=profile-badge">Felipe Cabral Viana</a> ! 👍🏼</div>
+### Hello, I'm <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-cabral-viana-58b11981" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-cabral-viana-58b11981?trk=profile-badge">Felipe Cabral Viana</a> ! 👍🏼</div>
 
 ##
 
