@@ -1,4 +1,4 @@
-### Oi! Eu sou o Felipe Cabral! 👍🏼
+### Oi! Eu sou o <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-cabral-viana-58b11981" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-cabral-viana-58b11981?trk=profile-badge">Felipe Cabral Viana</a> ! 👍🏼</div>
 
 ##
 
@@ -7,6 +7,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecabral&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecabral&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+              
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
